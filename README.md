@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsoliman-me&show_icons=true&locale=en&layout=compact" alt="mdsoliman-me" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsoliman-me&show_icons=true&locale=en" alt="mdsoliman-me" /></p> <a href="https://app.daily.dev/mdsoliman"><img src="https://api.daily.dev/devcards/65d90d2cbb7647b6ab3fdc6d8853f3b2.png?r=v89" width="400" alt="MD SOLIMAN's Dev Card"/></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsoliman-me&" alt="mdsoliman-me" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsoliman-me&show_icons=true&locale=en" alt="mdsoliman-me" /></p>
+<p> <a href="https://app.daily.dev/mdsoliman"><img src="https://api.daily.dev/devcards/65d90d2cbb7647b6ab3fdc6d8853f3b2.png?r=v89" width="400" alt="MD SOLIMAN's Dev Card"/></a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsoliman-me&" alt="mdsoliman-me" /></p> 
